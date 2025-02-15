@@ -12,28 +12,13 @@
 Sistem verifikasi wajah yang dirancang dengan Menggunakan teknologi untuk memverifikasi identitas dengan akurasi tinggi dan anti-spoofing detection.
 
 ## ✨ Fitur Utama
-
-<details>
-<summary>🎯 Verifikasi Real-time</summary>
+### Verifikasi Real-time
 
 - Deteksi wajah instan
 - Verifikasi dalam 0.15 detik
 - Confidence level display
 - Anti-spoofing detection
-</details>
 
-<details>
-<summary>🔐 Keamanan</summary>
-
-- Liveness detection
-</details>
-
-<details>
-<summary>📊 Monitoring</summary>
-
-- Real-time confidence metrics
-- Performance analytics
-</details>
 
 ## 🛠️ Tech Stack
 | Komponen | Teknologi | Fungsi |
