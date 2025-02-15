@@ -120,7 +120,7 @@ def register_new_mahasiswa():
     cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 720)
     cap.set(cv2.CAP_PROP_FPS, 30)
     
-    mahasiswa_id = input("Masukkan NIK Mahasiswa: ")
+    mahasiswa_id = input("Masukkan NIM Mahasiswa: ")
     mahasiswa_name = input("Masukkan Nama Mahasiswa: ")
     
     face_images = []

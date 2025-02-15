@@ -195,7 +195,7 @@ def verify_face():
                         best_match = mah_data
                 
                 if highest_similarity > 0.85:
-                    text = f"Welcome, {best_match['name']} (ID: {best_match['id']})"
+                    text = f"Welcome, {best_match['name']} (NIM: {best_match['id']})"
                     color = (0, 255, 0)
                 else:
                     text = "Access Denied - Identity Not Verified"
