@@ -9,7 +9,7 @@
 </div>
 
 ## 📋 Deskripsi
-Sistem verifikasi wajah yang dirancang dengan Menggunakan teknologi untuk memverifikasi identitas dengan akurasi tinggi dan anti-spoofing detection.
+Program verifikasi wajah yang dirancang dengan Menggunakan teknologi untuk memverifikasi identitas dengan akurasi tinggi dan anti-spoofing detection.
 
 ## ✨ Fitur Utama
 ### Verifikasi Real-time
