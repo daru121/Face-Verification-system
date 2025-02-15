@@ -9,7 +9,7 @@
 </div>
 
 ## 📋 Deskripsi
-Sistem verifikasi wajah real-time yang dirancang khusus untuk lingkungan akademik. Menggunakan teknologi untuk memverifikasi identitas dengan akurasi tinggi dan anti-spoofing detection.
+Sistem verifikasi wajah yang dirancang dengan Menggunakan teknologi untuk memverifikasi identitas dengan akurasi tinggi dan anti-spoofing detection.
 
 ## ✨ Fitur Utama
 
@@ -61,7 +61,7 @@ Sistem verifikasi wajah real-time yang dirancang khusus untuk lingkungan akademi
 | FRR | 0.1% |
 
 ## 📝 Persyaratan Sistem
-- CPU: Intel Core i5 atau lebih tinggi
+- CPU: Intel Core i3 atau lebih tinggi
 - GPU: Opsional (untuk performa lebih baik)
 - Kamera: 720p minimum
 - OS: Windows 10/11, Linux, macOS
